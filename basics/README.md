@@ -1,4 +1,8 @@
 # BASICS
+
+```python
+print("Hello World!")
+```
 ### Variables
 * Variables are containers for storing data values
 * In python variables is created the moment we first assign a value to it
