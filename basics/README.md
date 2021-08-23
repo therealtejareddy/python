@@ -31,7 +31,7 @@ st = "TEJA REDDY"
 print(s1)
 ```
 ### casting
-converting into different datatypes uith builtin type conversion functions
+converting into different datatypes with builtin type conversion functions
 
 * `int()` 
 * `float()` 
