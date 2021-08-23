@@ -28,7 +28,7 @@ we can get the datatype of any object by using the `type()` built in function
 ```python
 x = 10
 st = "TEJA REDDY"
-print("")
+print(s1)
 ```
 ### casting
 converting into different datatypes uith builtin type conversion functions
