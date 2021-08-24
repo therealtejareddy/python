@@ -22,7 +22,7 @@ if(is_rainy):
     print("Take Umbrella")
 ```
 
-### Alternative ( if - else )
+### Alternative ( `if - else` )
 if the condition in `if` block is False then the code in `else` is executed
 ```python
 if condition:
@@ -38,7 +38,7 @@ if the condition in `if` block is `False` then `elif` condition will be check if
 ```python
 if condition1:
     # Block Code
-elif condition1:
+elif condition2:
     # Block Code
 else:
     # False Block Code
