@@ -40,3 +40,21 @@ converting into different datatypes with builtin type conversion functions
 * `list()` 
 * `bool()` 
 
+### Operators
+* **Arithmetic Operators**
+    * `+` Addition 
+    * `-` Subtraction
+    * `*` Multiplication
+    * `/` Division
+    * `//` Floor Division
+    * `%` Modulus
+    * `**` Exponential
+
+
+
+
+
+
+
+
+
